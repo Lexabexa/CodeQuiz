@@ -15,3 +15,4 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 
+![04-web-apis-demo](https://github.com/Lexabexa/CodeQuiz/assets/130160635/c059b1bd-a74e-43de-bd54-4b1c45f4496e)
